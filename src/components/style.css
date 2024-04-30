@@ -1,0 +1,8 @@
+.home12{
+    width: 50px; /* Set the width to 50 pixels */
+  height: 50px; /* Set the height to 50 pixels */
+/* Set a border for the spinner */
+/*  border-top: 3px solid #fff; /* Set the top border color to white for a spinning effect */
+  /*border-radius: 50%; /* Make it a circle */
+  /*animation: spin 2s linear infinite;*/
+}
